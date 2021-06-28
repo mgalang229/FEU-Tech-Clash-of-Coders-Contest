@@ -1,5 +1,6 @@
 # FEU-Tech-Clash-of-Coders-Contest
 ## Certificate
+![](Champion_Cert.png)
 ## Final Result
 ### Total Points: 139.00
 ### Rank: 1st
